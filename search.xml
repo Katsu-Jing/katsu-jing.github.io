@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[testcmd]]></title>
+    <url>%2F2017%2F05%2F12%2Ftestcmd%2F</url>
+    <content type="text"><![CDATA[asdfadsfasdfasdfasdfasdfasdfasdf]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test2]]></title>
+    <url>%2F2017%2F05%2F12%2Ftest2%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[数据库]]></title>
     <url>%2F2017%2F05%2F12%2F%E6%95%B0%E6%8D%AE%E5%BA%93%2F</url>
     <content type="text"></content>
